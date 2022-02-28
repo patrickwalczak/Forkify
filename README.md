@@ -1,4 +1,4 @@
-# forkify Project
+# Forkify Project
 
 This is a final project from JavaScript course by Jonas Schmedtmann. 
 
